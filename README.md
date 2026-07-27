@@ -35,7 +35,7 @@
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/IfElse.java">If-else-if Ladder</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/SampleSwitch.java">Sample Switch Statement</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/MissingBreak.java">Missing Break Statement</a></li>
-
+            <li>Nested switch statements</li>
         </ol>
     </li>
     
