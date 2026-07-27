@@ -42,6 +42,9 @@
         <ol>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/While.java">While Loop</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/WhileNobody.java">While without body</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/DoWhile.java">Do-While</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/DoWhileMenu.java">Do-While Menu</a></li>            
+
         </ol>
     </li>
 </ul>
