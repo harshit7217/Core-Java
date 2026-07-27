@@ -38,5 +38,10 @@
             <li>Nested switch statements</li>
         </ol>
     </li>
-    
+    <li>Iteration Statement
+        <ol>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/While.java">While Loop</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/WhileNobody.java">While without body</a></li>
+        </ol>
+    </li>
 </ul>
