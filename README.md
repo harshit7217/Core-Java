@@ -46,6 +46,8 @@
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/DoWhileMenu.java">Do-While Menu</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/For.java">For</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/FindPrimeNumber.java">Find Prime Number</a></li>
+            <li><a href="">Comma using in for loop</a></li>
+            <li><a href="">For loop variation</a></li>
         </ol>
     </li>
 </ul>
