@@ -33,6 +33,7 @@
             <li>If Statement</li>
             <li>Nested ifs</li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/IfElse.java">If-else-if Ladder</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/SampleSwitch.java">Sample Switch Statement</a></li>
         </ol>
     </li>
     
