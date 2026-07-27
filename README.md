@@ -25,7 +25,7 @@
     <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/operators/OperatorBitsEqual.java">Operator Bits Equal Operator</a></li>
 </ul>
 
-<h2> Control Statement </h2>
+<h2>Chapter - 5 || Control Statement </h2>
 
 <ul>
     <li>Java Selction's Statements
@@ -44,6 +44,8 @@
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/WhileNobody.java">While without body</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/DoWhile.java">Do-While</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/DoWhileMenu.java">Do-While Menu</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/For.java">For</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/FindPrimeNumber.java">Find Prime Number</a></li>
         </ol>
     </li>
 </ul>
