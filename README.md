@@ -24,3 +24,16 @@
     <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/operators/ByteUnsignedShift.java">Unsigned Right Shift</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/operators/OperatorBitsEqual.java">Operator Bits Equal Operator</a></li>
 </ul>
+
+<h2> Control Statement </h2>
+
+<ul>
+    <li>Java Selction's Statements
+        <ol>
+            <li>If Statement</li>
+            <li>Nested ifs</li>
+            <li>If-else-if Ladder</li>
+        </ol>
+    </li>
+    
+</ul>
