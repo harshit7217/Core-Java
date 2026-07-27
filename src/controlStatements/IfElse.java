@@ -18,5 +18,35 @@ public class IfElse {
         }
 
         System.out.println("April is in the "+ seasson +".");
+
+//        Improved Version
+        String newSeasson;
+        month = 4;
+        switch(month) {
+            case 12:
+            case 1:
+            case 2:
+                newSeasson = "Winter";
+                break;
+            case 3:
+            case 4:
+            case 5:
+                newSeasson = "Spring";
+                break;
+            case 6:
+            case 7:
+            case 8:
+                newSeasson = "Summer";
+                break;
+            case 9:
+            case 10:
+            case 11:
+                newSeasson = "Autumn";
+                break;
+            default:
+                newSeasson = "Bogus Month";
+        }
+
+        System.out.println("April is in the "+ newSeasson + ".");
     }
 }
