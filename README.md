@@ -68,6 +68,8 @@
         <ol>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/UsingBreakAsAFormOfGoto.java">Using break as a form of goto</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/UsingBreakToExitNextedLoop.java">Using break to exit a nested for loop</a></li>
+            <li><a href="">Continue Statement</a></li>
+            <li><a href="">Continue Label (A triangular table 0 to 9)</a></li>
         </ol>
     </li>
 </ul>
