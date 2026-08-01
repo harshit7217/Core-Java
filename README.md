@@ -79,9 +79,9 @@
 
 <ul>
     <li>The general form of class</li>
-    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/introducingClasses/simpleClass">A simple Class</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/introducingClasses/simpleClass">A simple Class</a> that contains all the concept of this chapter.</li>
     <li>Declaring Objects</li>
-    <li>A closser looked at new</li>
+    <li>A closer looked at new</li>
     <li>Assigning Object Reference Variables</li>
     <li>Introducing Methods
         <ol>
