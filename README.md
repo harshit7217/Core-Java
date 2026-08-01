@@ -66,8 +66,8 @@
     <li>Jump Statement
         <p>Java support three jump statement : break, continue and return</p>
         <ol>
-            <li><a href="">Using break as a form of goto</a></li>
-            <li><a href="">Using break to exit a nested for loop</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/UsingBreakAsAFormOfGoto.java">Using break as a form of goto</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/UsingBreakToExitNextedLoop.java">Using break to exit a nested for loop</a></li>
         </ol>
     </li>
 </ul>
