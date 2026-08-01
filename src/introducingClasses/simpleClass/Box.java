@@ -5,6 +5,12 @@ public class Box {
     double height;
     double depth;
 
+    public Box() {
+        width = 10;
+        height = 10;
+        depth = 10;
+    }
+
     double volume(){
         return width * height * depth;
     }

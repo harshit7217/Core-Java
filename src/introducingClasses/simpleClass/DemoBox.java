@@ -5,6 +5,10 @@ public class DemoBox {
         Box myBox = new Box();
         Box myBox2 = new Box();
 
+        System.out.println("Volume of the box through constructor: ");
+        System.out.println(myBox.volume());
+        System.out.println(myBox2.volume());
+
 //        myBox.height = 10;
 //        myBox.width = 20;
 //        myBox.depth = 15;
@@ -14,6 +18,7 @@ public class DemoBox {
 //        myBox2.depth = 9;
 
 //        Setting the dimension of the box
+        System.out.println("Setting the dimensions of both the Box");
         myBox.Dem(20, 10, 15);
         myBox2.Dem(3, 6, 9);
 
