@@ -11,19 +11,19 @@ public class Box {
         depth = 10;
     }
 
-    public Box(double w, double h, double d){
-        width = w;
-        height = h;
-        depth = d;
+    public Box(double width, double height, double depth){
+        this.width = width;
+        this.height = height;
+        this.depth = depth;
     }
 
     double volume(){
         return width * height * depth;
     }
 
-    void Dem(double w, double h, double d){
-        width = w;
-        height = h;
-        depth = d;
+    void Dem(double width, double height, double depth){
+        this.width = width;
+        this.height = height;
+        this.depth = depth;
     }
 }
