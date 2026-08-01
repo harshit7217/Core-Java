@@ -57,7 +57,7 @@
                     you can't change the content of the array.Ex: <a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/ForEachNoChange.java">NoChange</a>
                 </p>
             </li>
-            <li><a href="">Multi-Dimensional Iteration</a>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/MultidimensionalArrayIterationUsingForEach.java">Multi-Dimensional Iteration</a>
                 <p>Multidimensional array consists of arrays of arrays means two dimensional array is an array of one dimensional array.</p>
             </li>
 
