@@ -33,5 +33,11 @@ public class DemoBox {
 //        Adding method in class
         System.out.println("My Box volume = "+myBox.volume());
         System.out.println("My Box 2 volume = "+ myBox2.volume());
+
+
+//        Parameterized constructor
+        System.out.print("My third box volume : ");
+        Box myBox3 = new Box(20, 14, 15);
+        System.out.println(myBox3.volume());
     }
 }

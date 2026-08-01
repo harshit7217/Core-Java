@@ -11,6 +11,12 @@ public class Box {
         depth = 10;
     }
 
+    public Box(double w, double h, double d){
+        width = w;
+        height = h;
+        depth = d;
+    }
+
     double volume(){
         return width * height * depth;
     }
