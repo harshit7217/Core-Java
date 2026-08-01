@@ -78,7 +78,7 @@
 <h2>Introducing Classes</h2>
 
 <ul>
-    <li><a href="">A simple Class</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/introducingClasses/simpleClass">A simple Class</a></li>
 </ul>
 
 
