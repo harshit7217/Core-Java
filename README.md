@@ -50,7 +50,7 @@
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/ForLoopVariation.java">For loop variation</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/ForEach.java">For Each</a>
                 <p>
-                    It helps or iterate a objects or Colletion framework.
+                    It helps to iterate a objects or Colletion framework.
                     It follow all the rules of the standard for loop. (Follow a sequential form). 
                     The loop will be terminate by using the "break" statment.
                     <b>Improtant: Its iteration variable is only "read-only"</b>means
