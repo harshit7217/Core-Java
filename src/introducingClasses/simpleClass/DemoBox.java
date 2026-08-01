@@ -22,7 +22,7 @@ public class DemoBox {
 //        System.out.println("Volume = "+ vol);
 
 //        Adding method in class
-        myBox.volume();
-        myBox2.volume();
+        System.out.println("My Box volume = "+myBox.volume());
+        System.out.println("My Box 2 volume = "+ myBox2.volume());
     }
 }
