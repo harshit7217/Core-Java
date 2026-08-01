@@ -75,7 +75,7 @@
     </li>
 </ul>
 
-<h2>Introducing Classes</h2>
+<h2>Chapter-6 || Introducing Classes</h2>
 
 <ul>
     <li>The general form of class</li>
