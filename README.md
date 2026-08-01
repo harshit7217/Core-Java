@@ -78,7 +78,24 @@
 <h2>Introducing Classes</h2>
 
 <ul>
+    <li>The general form of class</li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/introducingClasses/simpleClass">A simple Class</a></li>
+    <li>Declaring Objects</li>
+    <li>A closser looked at new</li>
+    <li>Assigning Object Reference Variables</li>
+    <li>Introducing Methods
+        <ol>
+            <li>Adding a method to the Box class</li>
+            <li>Returning a value</li>
+            <li>Adding a method that takes parameters</li>
+        </ol>
+    </li>
+    <li>Constructors</li>
+    <li>Parameterized constructors</li>
+    <li>This keyword</li>
+    <li>Instance variable hiding</li>
+    <li>Garbage collections</li>
+    <li>Stack class</li>
 </ul>
 
 
