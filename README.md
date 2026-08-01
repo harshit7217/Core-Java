@@ -48,6 +48,16 @@
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/FindPrimeNumber.java">Find Prime Number</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/ForComma.java">Comma using in for loop</a></li>
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/ForLoopVariation.java">For loop variation</a></li>
+            <li><a>For Each</a>
+                <p>
+                    It helps or iterate a objects or Colletion framework.
+                    It follow all the rules of the standard for loop. (Follow a sequential form). 
+                    The loop will be terminate by using the "break" statment.
+                    <b>Improtant: Its iteration variable is only "read-only"</b>means
+                    you can't change the content of the array.Ex: <a href="">NoChange</a>
+                </p>
+            </li>
+
         </ol>
     </li>
 </ul>
