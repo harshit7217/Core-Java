@@ -60,7 +60,14 @@
             <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/MultidimensionalArrayIterationUsingForEach.java">Multi-Dimensional Iteration</a>
                 <p>Multidimensional array consists of arrays of arrays means two dimensional array is an array of one dimensional array.</p>
             </li>
-            <li><a href="">Local Variable Type Inference in a for Loop</a></li>
+            <li><a href="https://github.com/harshit7217/Core-Java/blob/main/src/controlStatements/LocalVariableTypeInferenceInAForLoop.java">Local Variable Type Inference in a for Loop</a></li>
+        </ol>
+    </li>
+    <li>Jump Statement
+        <p>Java support three jump statement : break, continue and return</p>
+        <ol>
+            <li><a href="">Using break as a form of goto</a></li>
+            <li><a href="">Using break to exit a nested for loop</a></li>
         </ol>
     </li>
 </ul>
