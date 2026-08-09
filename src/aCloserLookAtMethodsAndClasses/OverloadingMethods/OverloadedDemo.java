@@ -20,4 +20,9 @@ public class OverloadedDemo {
         System.out.println("double a : "+ a);
         return a * a;
     }
+
+    double mainTest(double a){
+        System.out.println("double a: "+ a);
+        return a * a;
+    }
 }
