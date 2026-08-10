@@ -111,7 +111,8 @@
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/introducingAccessControl">Introducing Access Control</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/understandingStatic">Understanding Static</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/arrayRevisited">Array Revisited</a></li>
-    <li><a href="">Introduction Nested and Inner Class</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/introducingNestedAndInnerClass">Introduction Nested and Inner Class</a></li>
+    <li><a href="">Exploring the string class</a></li>
 </ul>
 
 
