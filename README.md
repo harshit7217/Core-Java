@@ -109,7 +109,8 @@
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/returningObject">Returning Object</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/recursion">Recursion</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/introducingAccessControl">Introducing Access Control</a></li>
-    <li><a href="">Understanding Static</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/understandingStatic">Understanding Static</a></li>
+    <li><a href="">Array Revisited</a></li>
 </ul>
 
 
