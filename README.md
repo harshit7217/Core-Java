@@ -122,5 +122,6 @@
 <h2>Chapter-8 || Inheritance</h2>
 
 <ul>
-    <li><a href="">Basic Inheritacne</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/inheritance/basic">Basic Inheritance</a></li>
+    <li><a href="">More Practical Example</a></li>
 </ul>
