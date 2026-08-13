@@ -114,8 +114,8 @@
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/introducingNestedAndInnerClass">Introduction Nested and Inner Class</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/stringClass">Exploring the string class</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/usingCommandLineArguments">A using command line argument</a></li>
-    <li><a href="">Varargs</a></li>
-    <li><a href="">Inference and Reference</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/varargs">Varargs</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/aCloserLookAtMethodsAndClasses/inferenceAndReference">Inference and Reference</a></li>
 </ul>
 
 
