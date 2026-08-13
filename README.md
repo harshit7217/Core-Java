@@ -123,5 +123,5 @@
 
 <ul>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/inheritance/basic">Basic Inheritance</a></li>
-    <li><a href="">More Practical Example</a></li>
+    <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/inheritance/morePracticalExample">More Practical Example</a></li>
 </ul>
