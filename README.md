@@ -138,4 +138,6 @@
     <dd>It is not supported by java. But we can do a multiple inheritance by the help of interface. Firstly we can create an interface A and B. Interface have a default methods. So, Class C can implements a Interface A and B. Now, Class C can access the instance and methods of Class A & B.</dd>
     <dt>Hybrid Inheritance</dt>
     <dd>It is a mixing of two or more types of inheritance. e.g. We can use a single inheritance and hierarchical inheritance or single inheritance and multiple ingeritance.</dd>
+    <dt>Why java not supported multiple inheritance</dt>
+    <dd>Java is not supported the multiple inheritance because the code of complexity and ambiguity. For Example : We have a 4 class - A, B, C, and D. Class B extends A, Class C extends A, Class D extends B and C. In this case, complexity is occurring due to the Class A. We can access a A class two time. Compiler don't understand which will be supported or not. If we can call only the Class D extends B then it work properly. OR Class D extends C then it work properly because then have access a Class A at ones. When we access B AND C then the Class A is Access two times. </dd>
 </dl>
