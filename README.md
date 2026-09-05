@@ -130,5 +130,12 @@
 <dl>
     <dt>Single Inheritance:</dt>
     <dd>B class extends class A. Class B can access all the instance and methods of Class A.</dd>
-    
+    <dt>Multilevel Inheritance:</dt>
+    <dd>Class C extends Class B and Class B extends Class A. It is based on level. Class C can access all the instance and methods of Class B & A. Class B can access all the instance and methods of Class A.</dd>
+    <dt>Hierarchical Inheritance</dt>
+    <dd>Class C extends Class A and Class B extends Class A, It is based on two different class access a same class. Class C and B are access all the instance and methods of Class A.</dd>
+    <dt>Multiple Inheritance:</dt>
+    <dd>It is not supported by java. But we can do a multiple inheritance by the help of interface. Firstly we can create an interface A and B. Interface have a default methods. So, Class C can implements a Interface A and B. Now, Class C can access the instance and methods of Class A & B.</dd>
+    <dt>Hybrid Inheritance</dt>
+    <dd>It is a mixing of two or more types of inheritance. e.g. We can use a single inheritance and hierarchical inheritance or single inheritance and multiple ingeritance.</dd>
 </dl>
