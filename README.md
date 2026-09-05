@@ -142,3 +142,10 @@
     <dd>1. Java is not supported the multiple inheritance because the code of complexity and ambiguity. For Example : We have a 4 class - A, B, C, and D. Class B extends A, Class C extends A, Class D extends B and C. In this case, complexity is occurring due to the Class A. We can access a A class two time. Compiler don't understand which will be supported or not. If we can call only the Class D extends B then it work properly. OR Class D extends C then it work properly because then have access a Class A at ones. When we access B AND C then the Class A is Access two times. </dd>
     <dd>2. We can also access a multiple inheritance by composition. Class B creates a object of the parent class A. Class C creates a object of the parent class B. Now, we can access Class B and A at once. or Class C and A at once.</dd>
 </dl>
+
+<h4>Super Keyword</h4>
+<p>Super keyword is used to access the parent class variable, methods and constructor through a subclass. We can change the value of the parent class and access of methods and constructor.</p>
+
+<h4>Overriding</h4>
+<p>Overriding is a concept in which a method re-write in a subclass with a similar name of super class method. It helps to code readability and accessibility.</p>
+<p>Override Annotation define that method is using in the super class now coders know that similar name method already introduce with the super class. Now, Super Interface to giving this method. New Features are introducing or something else. j</p>
