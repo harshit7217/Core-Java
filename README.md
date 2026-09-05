@@ -125,3 +125,10 @@
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/inheritance/basic">Basic Inheritance</a></li>
     <li><a href="https://github.com/harshit7217/Core-Java/tree/main/src/inheritance/morePracticalExample">More Practical Example</a></li>
 </ul>
+
+<h3>Types of Inheritance</h3>
+<dl>
+    <dt>Single Inheritance:</dt>
+    <dd>B class extends class A. Class B can access all the instance and methods of Class A.</dd>
+    
+</dl>
