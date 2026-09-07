@@ -148,4 +148,21 @@
 
 <h4>Overriding</h4>
 <p>Overriding is a concept in which a method re-write in a subclass with a similar name of super class method. It helps to code readability and accessibility.</p>
-<p>Override Annotation define that method is using in the super class now coders know that similar name method already introduce with the super class. Now, Super Interface to giving this method. New Features are introducing or something else. j</p>
+<p>Override Annotation define that method is using in the super class now coders know that similar name method already introduce with the super class. Now, Super Interface to giving this method. New Features are introducing or something else.</p>
+
+<h2>Abstraction: </h2>
+
+<p>Abstraction is a functionality in which hiding internal implementation details and showing only essential parts of the class.</p>
+
+<h3>Types of Abstraction</h3>
+<ol>
+    <li>Abstract Class</li>
+    <li>Interface</li>
+</ol>
+
+<dl>
+    <dt>Abstract class: </dt>
+    <dd>It define as a abstract class e.g. **abstract Class Shape**. Using this class by keywords extends. But it is partially abstract the class.</dd>
+    <dt>Interface: </dt>
+    <dd>It define as **interface** e.g. **interface Shape**. Using the interface to implement in the class by using the implements keyword.</dd>
+</dl>
