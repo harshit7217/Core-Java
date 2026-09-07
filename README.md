@@ -166,3 +166,12 @@
     <dt>Interface: </dt>
     <dd>It define as **interface** e.g. **interface Shape**. Using the interface to implement in the class by using the implements keyword.</dd>
 </dl>
+
+<h2>Error and Exception Handling</h2>
+
+<dl>
+    <dt>Error</dt>
+    <dd>Error is occurring due to the failure of system. We can't handle the error.</dd>
+    <dt>Exception</dt>
+    <dd>It is a mechanism which used to handle a runtime error or conditional expection.</dd>
+</dl>
